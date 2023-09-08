@@ -5,7 +5,7 @@ title: Student Blog
 
 ## Kaden's Very Amazing Website!!
 
-![Alt text](image.png)
+![Alt text](image-1.png)
 
 ## Class Schedule  
 
