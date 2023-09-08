@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Plans
+title: Calculator
 description: Calculater 
 type: hacks
 courses: { compsci: {week: 3} }
