@@ -80,12 +80,18 @@
   .calculator-clear {
     @extend .button;
     background-color: #e68b1c;
+    
+    grid-column: span 3;
+    grid-row: span 1;
   }
   
   /* styling for the calculator equals button */
   .calculator-equals {
     @extend .button;
     background-color: #e70f0f;
+
+    grid-column: span 2;
+    grid-row: span 1;
   }
 
   
