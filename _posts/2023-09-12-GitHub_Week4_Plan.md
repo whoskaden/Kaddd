@@ -21,7 +21,8 @@ courses: { compsci: {week: 4} }
 
 # Wednesday 
 
-- 
+- Agile Methodology lecture 
+- brainstormed ideas about what to do with group members regarding the two calculators 
 
 # Thursday 
 
