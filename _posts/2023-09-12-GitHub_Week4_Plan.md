@@ -18,6 +18,7 @@ courses: { compsci: {week: 4} }
 
 - Got into teams of 4
 - reviewed "Agile Methodology" blog 
+- edited calculator 
 
 # Wednesday 
 
@@ -26,10 +27,13 @@ courses: { compsci: {week: 4} }
 
 # Thursday 
 
--  
+- Changed the calculator buttons to fit a certain format  
+- changed the color of the output box 
+- made certain buttons bigger to fit the grid better
+- added / as a button to divide numbers 
 
 # Friday 
 
-- 
+- Finish up stuff I haven't finished yet during the week 
 
 
