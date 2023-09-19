@@ -35,5 +35,6 @@ courses: { compsci: {week: 4} }
 # Friday 
 
 - Finish up stuff I haven't finished yet during the week 
+- Added a label for each input in the grade calculator 
 
 
