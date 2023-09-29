@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true 
 layout: post
 title: Dog Sprite :)
 description: Sprite animation of Dog Sprite  
